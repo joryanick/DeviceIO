@@ -1,0 +1,13 @@
+DeviceIO	KEYWORD1
+initialize KEYWORD2
+debugSerial	KEYWORD2
+buildNumber	KEYWORD2
+connectionTimeout	KEYWORD2
+productIDname	KEYWORD2
+productIDpassword	KEYWORD2
+isTimeToCheckIn	KEYWORD2
+doCheckIn	KEYWORD2
+addSensorValue	KEYWORD2
+checkinInterval	KEYWORD2
+getTime	KEYWORD2
+unprovisionDevice	KEYWORD2
